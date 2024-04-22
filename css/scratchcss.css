@@ -59,3 +59,11 @@ iframe {
     display: block;
     margin: 20px auto;
 }
+.tableau {
+    
+    margin: 20px auto;
+    padding: 10px; 
+    border: 1px solid #ccc;
+    background-color: #f9f9f9; 
+   
+}
